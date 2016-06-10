@@ -44,4 +44,6 @@ func searchBarTextDidEndEditing(searchBar: UISearchBar) {
 
 That's it, for detailed implementation, please see the source code of the demo.
 
+![demo](screenshots/searchbar.png)<br />
+
 Author: Yong Su @ Box Inc.
